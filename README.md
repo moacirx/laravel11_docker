@@ -50,3 +50,17 @@ php artisan migrate
 
 Acesse o projeto
 [http://localhost:8000](http://localhost:8000)
+
+git hub
+```sh
+Instruções para acessar o github autenticado
+https://blog.formacao.dev/como-fazer-autenticacao-no-github-pelo-terminal/
+
+echo "# laravel11_docker" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:moacirx/laravel11_docker.git
+git push -u origin main
+```
