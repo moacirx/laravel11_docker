@@ -14,6 +14,9 @@ cd app-laravel
 Suba os containers do projeto
 ```sh
 docker-compose up -d
+
+parar os container
+docker-compose down
 ```
 
 
@@ -64,3 +67,16 @@ git branch -M main
 git remote add origin git@github.com:moacirx/laravel11_docker.git
 git push -u origin main
 ```
+
+'''sh
+Instalação do Breeze
+
+composer require laravel/breeze --dev
+
+php artisan breeze:install
+ 
+php artisan migrate
+npm install
+npm run dev
+
+'''
