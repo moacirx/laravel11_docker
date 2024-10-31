@@ -54,7 +54,7 @@ Acesse o projeto
 git hub
 ```sh
 Instruções para acessar o github autenticado
-https://blog.formacao.dev/como-fazer-autenticacao-no-github-pelo-terminal/
+[https://blog.formacao.dev/como-fazer-autenticacao-no-github-pelo-terminal/]
 
 echo "# laravel11_docker" >> README.md
 git init
