@@ -20,6 +20,6 @@ class DatabaseSeeder extends Seeder
             'email' => 'moacir.crica@gmail.com',
         ]);
 
-        User::factory(10)->create();
+        User::factory(100)->create();
     }
 }
